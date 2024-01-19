@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27412" started-at="2024-01-19T04:17:00Z" finished-at="2024-01-19T04:17:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27412" started-at="2024-01-19T04:17:00Z" finished-at="2024-01-19T04:17:27Z">
+      <class name="analystt_Assignment.Assignment2">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:analystt_Assignment.Assignment2@3bd550]" name="launchBrowser" is-config="true" duration-ms="6942" started-at="2024-01-19T09:47:00Z" finished-at="2024-01-19T09:47:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="loginProcess()[pri:1, instance:analystt_Assignment.Assignment2@3bd550]" name="loginProcess" duration-ms="4242" started-at="2024-01-19T09:47:07Z" finished-at="2024-01-19T09:47:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginProcess -->
+        <test-method status="PASS" signature="verifyPagetitle()[pri:2, instance:analystt_Assignment.Assignment2@3bd550]" name="verifyPagetitle" duration-ms="806" started-at="2024-01-19T09:47:11Z" finished-at="2024-01-19T09:47:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPagetitle -->
+        <test-method status="PASS" signature="searchCustomer()[pri:3, instance:analystt_Assignment.Assignment2@3bd550]" name="searchCustomer" duration-ms="10595" started-at="2024-01-19T09:47:12Z" finished-at="2024-01-19T09:47:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchCustomer -->
+        <test-method status="PASS" signature="logout()[pri:4, instance:analystt_Assignment.Assignment2@3bd550]" name="logout" duration-ms="3789" started-at="2024-01-19T09:47:22Z" finished-at="2024-01-19T09:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:analystt_Assignment.Assignment2@3bd550]" name="quitBrowser" is-config="true" duration-ms="974" started-at="2024-01-19T09:47:26Z" finished-at="2024-01-19T09:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- analystt_Assignment.Assignment2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
